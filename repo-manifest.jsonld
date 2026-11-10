@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/xiaoyaocz/flutter_dmzj/commit/6e27f949f2932708f9e2794a3b9e7a6e0e7909ef",
       "git:hexsha": "6e27f949f2932708f9e2794a3b9e7a6e0e7909ef",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.1.2"
     },
     {
